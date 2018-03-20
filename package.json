@@ -1,0 +1,27 @@
+{
+  "name": "express-sandbox",
+  "version": "1.0.0",
+  "description": "A repo for playing around with express and testing new functions with it",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emurphy-9/Express-Sandbox.git"
+  },
+  "keywords": [
+    "Express"
+  ],
+  "author": "Eoin Murphy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emurphy-9/Express-Sandbox/issues"
+  },
+  "homepage": "https://github.com/emurphy-9/Express-Sandbox#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {}
+}
